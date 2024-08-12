@@ -1,0 +1,7 @@
+name: "KitchenAid Artisan Stand Mixer"
+price: 429.99
+market value: 463
+Updated by mijwad on 2024-08-11 14:35:16
+Updated by mijwad on 2024-08-11 14:35:21
+Updated by mijwad to 459 on 2024-08-11 14:36:33
+Updated by mijwad to $463 on 2024-08-11 14:36:45

@@ -1,0 +1,5 @@
+name: "Bose SoundLink Revolve Speaker"
+price: 199.99
+market value: 400
+
+Updated by mijwad to $400 on 2024-08-11 14:37:30

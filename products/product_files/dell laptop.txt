@@ -1,0 +1,3 @@
+name: "Dell XPS 13 Laptop"
+price: 1249.99
+market value: 

@@ -1,0 +1,7 @@
+name: "Apple iPhone 13"
+price: 999.99
+market value: 1107
+Updated by mijwad to $1107 on 2024-08-11 14:47:48
+Updated by mijwad to $1112 on 2024-08-11 14:47:46
+Updated by mijwad to $1106 on 2024-08-11 14:47:43
+Updated by mijwad to $1100 on 2024-08-11 14:47:40

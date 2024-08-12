@@ -1,0 +1,7 @@
+name: "Fitbit Charge 5 Fitness Tracker"
+price: 149.95
+market value: 174
+Updated by mijwad to $174 on 2024-08-11 14:39:54
+Updated by mijwad to $160 on 2024-08-11 14:39:24
+Updated by mijwad to $158 on 2024-08-11 14:39:21
+Updated by mijwad to $155 on 2024-08-11 14:39:14
